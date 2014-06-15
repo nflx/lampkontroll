@@ -40,6 +40,7 @@ LampKontroll v0.2, Copyright 2014, Emil Lind <emil@sys.nu>
 
  * Make sure that your sudo is configure correctly, if you need to use tdtool as root.
    /etc/sudoers has the following lines (edit using visudo command)
+
     www-data	ALL=NOPASSWD: /usr/bin/tdtool *
 
 # Credits
